@@ -2783,16 +2783,46 @@
         "purpose": "Check if your email or phone appears in data breaches",
         "category": "Cybersecurity"
     },
-{
+    {
         "name": "MovieBox TUI",
         "url": "https://github.com/mesamirh/MovieBox-TUI",
         "purpose": "Browse and stream movies from the terminal",
         "category": "Utilities"
     },
-    {
+{
         "name": "MiroFish",
         "url": "https://github.com/666ghj/MiroFish",
         "purpose": "Collaborate on whiteboards with real-time editing, sticky notes, and diagrams",
         "category": "Design"
+    },
+    {
+        "name": "Together Chat",
+        "url": "https://chat.together.ai/",
+        "purpose": "AI chat with GLM 5.3, Kimi K3 and other models",
+        "category": "AI Chat"
+    },
+    {
+        "name": "Kilo",
+        "url": "https://kilo.ai/",
+        "purpose": "Open-source AI coding agent for IDE, CLI, and Cloud",
+        "category": "AI Coding"
+    },
+    {
+        "name": "SQLBolt",
+        "url": "https://sqlbolt.com/",
+        "purpose": "Learn SQL with interactive exercises",
+        "category": "Learning"
+    },
+    {
+        "name": "NoSignups",
+        "url": "https://github.com/BraveOPotato/FckSignups",
+        "purpose": "Curated open-source tools that work without signups",
+        "category": "Utilities"
+    },
+    {
+        "name": "brag",
+        "url": "https://github.com/latent-spaces/brag",
+        "purpose": "Claude Code skill to turn projects into launch videos",
+        "category": "AI Coding"
     }
 ]
