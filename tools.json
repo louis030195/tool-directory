@@ -2794,5 +2794,11 @@
         "url": "https://github.com/666ghj/MiroFish",
         "purpose": "Collaborate on whiteboards with real-time editing, sticky notes, and diagrams",
         "category": "Design"
+    },
+    {
+        "name": "Hyperconsciousness",
+        "url": "https://github.com/louis030195/hyperconsciousness",
+        "purpose": "Developer-alpha encrypted, append-only knowledge store with CLI and scoped MCP access for agents",
+        "category": "Developer Tools"
     }
 ]
