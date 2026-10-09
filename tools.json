@@ -1452,12 +1452,6 @@
         "category": "Utilities"
     },
     {
-        "name": "Codeium",
-        "url": "https://codeium.en.softonic.com/web-apps",
-        "purpose": "Free alternative to Copilot for autocompletion",
-        "category": "AI Coding"
-    },
-    {
         "name": "Class Central",
         "url": "https://www.classcentral.com/",
         "purpose": "Free courses from top institutes",
@@ -1485,12 +1479,6 @@
         "name": "Code Wars",
         "url": "https://www.codewars.com/",
         "purpose": "Improve coding skills with community challenges",
-        "category": "Coding Practice"
-    },
-    {
-        "name": "Robo Code",
-        "url": "https://robocode.sourceforge.io/",
-        "purpose": "Program robot tanks and battle them in a coding game",
         "category": "Coding Practice"
     },
     {
@@ -1666,12 +1654,6 @@
         "url": "https://www.edx.org/learn/artificial-intelligence",
         "purpose": "Learn with AI support on courses",
         "category": "Learning"
-    },
-    {
-        "name": "Work Ninja",
-        "url": "https://www.workninja.com/",
-        "purpose": "Long-form writing assistant",
-        "category": "AI Writing"
     },
     {
         "name": "Market Plan",
@@ -2349,12 +2331,6 @@
         "name": "Framer",
         "url": "https://www.framer.com/",
         "purpose": "Design and publish responsive websites visually",
-        "category": "Web Builder"
-    },
-    {
-        "name": "Orchid",
-        "url": "https://www.orchids.app/",
-        "purpose": "Build websites and apps with AI assistance",
         "category": "Web Builder"
     },
     {
