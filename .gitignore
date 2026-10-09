@@ -1,3 +1,4 @@
 .local/
 .playwright-mcp/
 .kilo/
+.zcodeignore
